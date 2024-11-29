@@ -1,1 +1,0 @@
-'use strict';document.addEventListener('DOMContentLoaded',function(){document.addEventListener('click',function(){document.getElementById('start-overlay').style.display='none';startGame()});function startGame(){}})
