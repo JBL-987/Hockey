@@ -1,1 +1,1 @@
-HockeyGame from ICP Hackathon Project
+Cloned project then i modify it a little bit
